@@ -7,8 +7,7 @@ public class Feladat6529_NehanySzamMinimuma2 {
     int num;
     int min = 2147483647;
     int count = 0; 
-    final int PLAN = extra.Console.readInt("Adja meg, hány darab számot szeretne vizsgálni: ");
-    
+    final int PLAN = extra.Console.readInt("Adja meg, hány darab számot szeretne vizsgálni: ");    
     if (PLAN > 0) {
       do {  
         num = extra.Console.readInt("Szám: ");        
