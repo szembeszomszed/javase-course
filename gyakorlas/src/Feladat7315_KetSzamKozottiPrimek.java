@@ -29,7 +29,5 @@ public class Feladat7315_KetSzamKozottiPrimek {
     int num1 = extra.Console.readInt("Szám1: ");
     int num2 = extra.Console.readInt("Szám2: ");
     allPrimes(num1, num2);
-    System.out.println(0.1 * 10);
-    System.out.println(0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1 + 0.1);
   }
 }
