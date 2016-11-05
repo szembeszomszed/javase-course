@@ -23,6 +23,6 @@ public class Feladat8312_EvHanyadikNapja {
   }
   
   public static void main(String[] args) {
-    System.out.println("A megadott nap az év " + dayOfTheYear(2016, 10, 31) + ". napja.");
+    System.out.println("A megadott nap az év " + dayOfTheYear(2015, 12, 31) + ". napja.");
   }  
 }
