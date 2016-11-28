@@ -41,7 +41,7 @@ public class Feladat1142_Osztok2 {
         commonDividers[count++] = dividers1[i];
       }
     }
-    System.out.print("Egyik szám: " + num1 + ", másik szám: " + num2 + ".\nA két szám közös osztói: ");
+    System.out.print("Egyik szám: " + num1 + "\nMásik szám: " + num2 + "\nA két szám közös osztói: ");
     for (int i = 0; i < count; i++) {
       System.out.print(commonDividers[i] + " ");
     }
@@ -49,10 +49,12 @@ public class Feladat1142_Osztok2 {
   }
 
   public static void main(String[] args) {
-    int[] arr = getDividersOfNumber(100);
-    int[] arr2 = getDividersOfNumber(30);    
+    int num1 = (int) (Math.random() * 90 + 10);
+    int num2 = (int) (Math.random() * 90 + 10);
+    int[] arr = getDividersOfNumber(num1);
+    int[] arr2 = getDividersOfNumber(num2);    
     System.out.println(Arrays.toString(arr));
     System.out.println(Arrays.toString(arr2));
-    displayDividers(100, 30);
+    displayDividers(num1, num2);
   }
 }
