@@ -39,7 +39,7 @@ public class Feladat1149_AtlagtolValoElteres1 {
     }
     average = sum / N;
     int difference = average / 5;
-    System.out.println(difference);
+    System.out.println("Az átlag 20 százaléka: " + difference);
     int min = average - difference;
     int max = average + difference;
     int count = 0;
