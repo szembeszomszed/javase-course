@@ -158,10 +158,13 @@ public class Main {
   private static void addSongFromAlbumToPlaylist(Song song, Album album) {
     Song songFromAlbum = album.getSong(song);
     if (songFromAlbum != null) {
-      playlist.add(songFromAlbum);
+      playlistIterator.add(songFromAlbum);
       System.out.println("Song " + songFromAlbum.getTitle() + " has been added to the playlist.");
     } else {
       System.out.println("Song not found.");
+    }
+    while (playlistIterator.hasPrevious()) {
+      playlistIterator.previous();
     }
   }
   
@@ -204,7 +207,7 @@ public class Main {
       goingForward = false;
     }
     if (playlistIterator.hasPrevious()) {
-      System.out.println("Now playing " + playlistIterator.previous());
+      System.out.println("Now playing " + playlistIterator.previous().getTitle());
     } else {
       System.out.println("This is the beginning of the list.");
       goingForward = true;
@@ -220,16 +223,13 @@ public class Main {
     if (!goingForward) {
       System.out.println("Nem Goingforward");
       if (playlistIterator.hasNext()) {
-        System.out.println("Van next");
         playlistIterator.next();
       }
       goingForward = true;
     }
     if (playlistIterator.hasNext()) {
-      System.out.println("Most már going forward, és van next");
-      System.out.println("Now playing " + playlistIterator.next());
+      System.out.println("Now playing " + playlistIterator.next().getTitle());
     } else {
-      System.out.println("Most már going forward, és nincs next");
       System.out.println("This is the end of the list.");
       goingForward = false;
     }    
