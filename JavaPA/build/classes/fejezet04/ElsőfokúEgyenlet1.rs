@@ -1,0 +1,1 @@
+ElsőfokúEgyenlet1

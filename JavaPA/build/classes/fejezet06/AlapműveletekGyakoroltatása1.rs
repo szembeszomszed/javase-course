@@ -1,0 +1,1 @@
+AlapműveletekGyakoroltatása1

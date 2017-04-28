@@ -1,0 +1,2 @@
+SzámÉsDb
+SokVéletlenszámFájlban4

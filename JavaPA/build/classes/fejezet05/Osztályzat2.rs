@@ -1,0 +1,1 @@
+Osztályzat2

@@ -1,0 +1,1 @@
+ÁtméretezhetőAblak1

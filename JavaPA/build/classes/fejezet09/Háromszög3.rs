@@ -1,0 +1,2 @@
+fejezet09_Háromszög3.Háromszög3
+fejezet09_Háromszög3.Háromszög

@@ -1,0 +1,1 @@
+SzövegSzámKonverzió2

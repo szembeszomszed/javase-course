@@ -1,0 +1,3 @@
+Szakasz$Pont
+Szakasz
+PontokTávolsága

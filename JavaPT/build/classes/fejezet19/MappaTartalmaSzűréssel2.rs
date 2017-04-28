@@ -1,0 +1,2 @@
+fejezet19MappaTartalmaSzűréssel2.FájlkiterjesztésSzűrő
+fejezet19MappaTartalmaSzűréssel2.MappaTartalmaSzűréssel2

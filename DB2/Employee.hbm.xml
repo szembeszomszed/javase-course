@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE hibernate-mapping SYSTEM "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="src.Employee" table="EMPLOYEES">
+    <id name="employee_id" column="EMPLOYEE_ID" type="int">
+      <generator class="native"></generator>
+    </id>
+    <property name="first_name" column="FIRST_NAME" type="string"></property>
+    <property name="last_name" column="LAST_NAME" type="string"></property>
+    <property name="email" column="EMAIL" type="string"></property>
+    <property name="phone_number" column="PHONE_NUMBER" type="string"></property>
+    <property name="hire_date" column="HIRE_DATE" type="date"></property>
+    <property name="job_id" column="JOB_ID" type="string"></property>
+    <property name="salary" column="SALARY" type="int"></property>
+    <property name="commission_pct" column="COMMISSION_PCT" type="int"></property>
+    <property name="manager_id" column="MANAGER_ID" type="int"></property>
+    <property name="department_id" column="DEPARTMENT_ID" type="int"></property>
+      
+  </class>
+</hibernate-mapping>

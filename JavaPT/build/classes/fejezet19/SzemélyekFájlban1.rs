@@ -1,0 +1,2 @@
+fejezet19SzemélyekFájlban1.SzemélyekFájlban1
+fejezet19SzemélyekFájlban1.Személy

@@ -1,0 +1,1 @@
+Alapműveletek2

@@ -1,0 +1,4 @@
+HáromszögekTeszt3
+EgyenlőszárúHáromszög
+EgyenlőoldalúHáromszög
+ÁltalánosHáromszög

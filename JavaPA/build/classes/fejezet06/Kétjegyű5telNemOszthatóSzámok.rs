@@ -1,0 +1,1 @@
+Kétjegyű5telNemOszthatóSzámok

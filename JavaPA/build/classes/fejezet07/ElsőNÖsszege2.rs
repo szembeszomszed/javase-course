@@ -1,0 +1,1 @@
+ElsőNÖsszege2

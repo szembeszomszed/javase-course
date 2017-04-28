@@ -1,0 +1,1 @@
+Számok10től30igForCiklusVáltozatok

@@ -1,0 +1,1 @@
+ÁtlagtólValóEltérés1

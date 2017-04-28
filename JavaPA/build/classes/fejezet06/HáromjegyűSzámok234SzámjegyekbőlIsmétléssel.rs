@@ -1,0 +1,1 @@
+HáromjegyűSzámok234SzámjegyekbőlIsmétléssel

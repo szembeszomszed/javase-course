@@ -1,0 +1,2 @@
+Lottó
+LottóFájl

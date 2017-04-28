@@ -1,0 +1,2 @@
+Kör
+KörKerületTerület

@@ -1,0 +1,1 @@
+TulajdonságMappa2

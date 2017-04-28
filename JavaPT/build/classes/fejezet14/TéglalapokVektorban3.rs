@@ -1,0 +1,2 @@
+ÖsszehasonlíthatóTéglalap
+TéglalapokVektorban3

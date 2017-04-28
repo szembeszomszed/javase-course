@@ -1,0 +1,1 @@
+KétjegyűPárosSzámokSzáma1

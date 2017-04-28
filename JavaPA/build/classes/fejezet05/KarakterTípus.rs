@@ -1,0 +1,1 @@
+KarakterTípus

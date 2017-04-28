@@ -1,0 +1,1 @@
+AblakMéretPozíció1

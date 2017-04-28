@@ -1,0 +1,2 @@
+FájlFilter
+TulajdonságFájl3

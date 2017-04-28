@@ -1,0 +1,2 @@
+Alapműveletek
+Alapművelet

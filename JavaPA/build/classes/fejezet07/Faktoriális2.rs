@@ -1,0 +1,1 @@
+Faktoriális2

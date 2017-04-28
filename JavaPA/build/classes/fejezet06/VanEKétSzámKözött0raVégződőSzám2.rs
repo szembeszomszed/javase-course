@@ -1,0 +1,1 @@
+VanEKétSzámKözött0raVégződőSzám2

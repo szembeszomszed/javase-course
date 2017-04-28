@@ -1,0 +1,1 @@
+Determináns1

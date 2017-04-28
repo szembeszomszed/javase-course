@@ -1,0 +1,1 @@
+SzövegMűveletek2

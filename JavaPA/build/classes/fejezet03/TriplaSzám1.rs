@@ -1,0 +1,1 @@
+TriplaSzám1

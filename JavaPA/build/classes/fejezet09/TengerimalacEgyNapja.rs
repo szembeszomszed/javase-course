@@ -1,0 +1,2 @@
+Emlősállat
+TengerimalacEgyNapja

@@ -1,0 +1,15 @@
+Player
+------
+id
+name
+number
+*Team
+
+
+Team
+-----
+id
+name
+Players
+-----
+get ranked player

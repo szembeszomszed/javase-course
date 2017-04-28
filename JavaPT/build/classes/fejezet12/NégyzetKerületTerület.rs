@@ -1,0 +1,2 @@
+NégyzetKerületTerület
+Négyzet

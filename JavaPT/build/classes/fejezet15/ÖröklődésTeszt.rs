@@ -1,0 +1,3 @@
+UtódOsztály
+ŐsOsztály
+ÖröklődésTeszt

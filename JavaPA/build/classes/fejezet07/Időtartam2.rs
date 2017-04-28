@@ -1,0 +1,1 @@
+Időtartam2

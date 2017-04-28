@@ -1,0 +1,1 @@
+ParaméterekÖsszege1

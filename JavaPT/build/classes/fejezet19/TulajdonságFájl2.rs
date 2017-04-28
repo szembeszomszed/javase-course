@@ -1,0 +1,1 @@
+TulajdonságFájl2

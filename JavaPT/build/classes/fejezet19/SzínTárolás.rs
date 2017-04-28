@@ -1,0 +1,1 @@
+SzínTárolás

@@ -1,0 +1,1 @@
+Legkisebb3Közül
